@@ -22,7 +22,14 @@ The program is written predominantly in R. Not all files are published publicly.
 - `.gitignore`
   - File with instructions of what not to make public (not public).
 - `00_readme/00_readme.md`
-  - The file you are currently reading.
+  - `00_readme.md`
+    - The file you are currently reading.
+  - `00_readme.pdf`
+    - The same as a pdf for easier viewing.
+  - `01_initializing_git.md`
+    - File for instructing how to initialize the git repo (not public).
+  - `Initializing git.pdf`
+    - The same as a pdf for easier viewing.
 - `01_file_organization.pptx`
   - A powerpoint to visualize the dendrogram of the file structure (in planning).
 - `02_ws.code-workspace`
