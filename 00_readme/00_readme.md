@@ -27,7 +27,7 @@ The program is written predominantly in R. Not all files are published publicly.
   - `00_readme.pdf`
     - The same as a pdf for easier viewing.
   - `01_initializing_git.md`
-    - File for instructing how to initialize the git repo (not public).
+    - File for instructing how to initialize the git repo.
   - `Initializing git.pdf`
     - The same as a pdf for easier viewing.
 - `01_file_organization.pptx`

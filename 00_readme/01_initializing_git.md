@@ -2,17 +2,10 @@
 
 This file gives a quick set of instructions for setting up the Git repository.
 
-**Table of Contents:**
-
-- [README](#readme)
-  - [Purpose](#purpose)
-  - [Structure](#structure)
-  - [File Organization](#file-organization)
-
 ## Instructions
 
 1. Open Git Bash in the root directory for this project.
-2. Run the following commands:
+2. Run the following commands to remove references to repository for template:
    1. `rm -rf .git`
    2. `git init`
 3. Go to github.com
